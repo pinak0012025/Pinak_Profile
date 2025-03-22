@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Video Banking Application**
 
-- 🌱 I’m currently learning **Jenkins, AWS Cloud Formation using Terraform**
+- 🌱 I’m currently working with **Jenkins, AWS Cloud Formation using Terraform**
 
 - 👯 I’m looking to collaborate on **AWS & Kubernetes k8s Certification**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **pinak251990@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
